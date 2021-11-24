@@ -8,4 +8,3 @@ int main() {
 
   cout << "The total sum is: " << total;
 } 
-
